@@ -1,0 +1,3 @@
+[submodule "Node-Media-Server"]
+	path = Node-Media-Server
+	url = https://github.com/smkhairkar/Vmukti.git
